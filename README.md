@@ -8,7 +8,10 @@
     accents below (badges, stat widgets) is built from *images* (shields.io /
     github-readme-stats), not live CSS — that's how those services are able to force
     real black backgrounds regardless of theme.
-  - Replace USERNAME, REPO links, and EMAIL placeholders throughout.
+  - GitHub username is filled in (MuhammadAbdullahKhan11may). Still replace: the
+    LinkedIn slug (USERNAME), individual repo names (REPO / eduvanta / portfolio /
+    academic-iq / streakflow / recipe-organizer — adjust to your actual repo names),
+    and EMAIL.
 -->
 
 <div align="center">
@@ -34,8 +37,8 @@ Full Stack Developer&nbsp;&nbsp;•&nbsp;&nbsp;AI Builder&nbsp;&nbsp;•&nbsp;&n
 
 <div align="center">
 
-[![Code](https://img.shields.io/badge/-CODE-000000?style=for-the-badge&logo=github&logoColor=22c55e)](https://github.com/USERNAME)
-[![Repository](https://img.shields.io/badge/↗_REPOSITORY-22c55e?style=for-the-badge&labelColor=000000&color=22c55e)](https://github.com/USERNAME/REPO)
+[![Code](https://img.shields.io/badge/-CODE-000000?style=for-the-badge&logo=github&logoColor=22c55e)](https://github.com/MuhammadAbdullahKhan11may)
+[![Repository](https://img.shields.io/badge/↗_REPOSITORY-22c55e?style=for-the-badge&labelColor=000000&color=22c55e)](https://github.com/MuhammadAbdullahKhan11may/REPO)
 
 </div>
 
@@ -55,8 +58,8 @@ A full-scale Learning Management System designed around real application workflo
 | 🔌 API | REST APIs |
 | 🗄️ Database | SQL |
 
-[![Code](https://img.shields.io/badge/-CODE-000000?style=for-the-badge&logo=github&logoColor=22c55e)](https://github.com/USERNAME/eduvanta)
-[![Repository](https://img.shields.io/badge/↗_REPOSITORY-22c55e?style=for-the-badge&labelColor=000000&color=22c55e)](https://github.com/USERNAME/eduvanta)
+[![Code](https://img.shields.io/badge/-CODE-000000?style=for-the-badge&logo=github&logoColor=22c55e)](https://github.com/MuhammadAbdullahKhan11may/eduvanta)
+[![Repository](https://img.shields.io/badge/↗_REPOSITORY-22c55e?style=for-the-badge&labelColor=000000&color=22c55e)](https://github.com/MuhammadAbdullahKhan11may/eduvanta)
 
 <br>
 
@@ -70,9 +73,9 @@ A cinematic developer portfolio focused on presenting projects, technical capabi
 | 🎨 Styling | Tailwind CSS |
 | ☁️ Hosting | GitHub Pages |
 
-[![Live Portfolio](https://img.shields.io/badge/▲_LIVE_PORTFOLIO-000000?style=for-the-badge&labelColor=000000&color=22c55e)](https://USERNAME.github.io)
-[![Source Code](https://img.shields.io/badge/-SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/USERNAME/portfolio)
-[![Code](https://img.shields.io/badge/</>_CODE-22c55e?style=for-the-badge&labelColor=000000&color=22c55e)](https://github.com/USERNAME/portfolio)
+[![Live Portfolio](https://img.shields.io/badge/▲_LIVE_PORTFOLIO-000000?style=for-the-badge&labelColor=000000&color=22c55e)](https://MuhammadAbdullahKhan11may.github.io)
+[![Source Code](https://img.shields.io/badge/-SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/MuhammadAbdullahKhan11may/portfolio)
+[![Code](https://img.shields.io/badge/</>_CODE-22c55e?style=for-the-badge&labelColor=000000&color=22c55e)](https://github.com/MuhammadAbdullahKhan11may/portfolio)
 
 <br>
 
@@ -86,8 +89,8 @@ An academic analysis application designed around student performance data, acade
 | 🔌 API | REST APIs |
 | 🎯 Focus | Academic Data Analysis |
 
-[![Code](https://img.shields.io/badge/-CODE-000000?style=for-the-badge&logo=github&logoColor=22c55e)](https://github.com/USERNAME/academic-iq)
-[![Repository](https://img.shields.io/badge/↗_REPOSITORY-22c55e?style=for-the-badge&labelColor=000000&color=22c55e)](https://github.com/USERNAME/academic-iq)
+[![Code](https://img.shields.io/badge/-CODE-000000?style=for-the-badge&logo=github&logoColor=22c55e)](https://github.com/MuhammadAbdullahKhan11may/academic-iq)
+[![Repository](https://img.shields.io/badge/↗_REPOSITORY-22c55e?style=for-the-badge&labelColor=000000&color=22c55e)](https://github.com/MuhammadAbdullahKhan11may/academic-iq)
 
 ---
 
@@ -108,8 +111,8 @@ A challenge and progress-tracking web application focused on streaks, daily prog
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=22c55e)
 ![Charts](https://img.shields.io/badge/-Charts-000000?style=flat-square&color=000000)
 
-[![View Code](https://img.shields.io/badge/-View_Code-000000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/USERNAME/streakflow)
-[![Repository](https://img.shields.io/badge/↗_Repository-22c55e?style=flat-square&labelColor=000000&color=22c55e)](https://github.com/USERNAME/streakflow)
+[![View Code](https://img.shields.io/badge/-View_Code-000000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/MuhammadAbdullahKhan11may/streakflow)
+[![Repository](https://img.shields.io/badge/↗_Repository-22c55e?style=flat-square&labelColor=000000&color=22c55e)](https://github.com/MuhammadAbdullahKhan11may/streakflow)
 
 </td>
 <td width="50%" valign="top">
@@ -125,8 +128,8 @@ A recipe and ingredient organization project applying programming and data-struc
 ![Algorithms](https://img.shields.io/badge/-Algorithms-000000?style=flat-square&color=000000)
 ![Search](https://img.shields.io/badge/-Search-000000?style=flat-square&color=000000)
 
-[![View Code](https://img.shields.io/badge/-View_Code-000000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/USERNAME/recipe-organizer)
-[![Repository](https://img.shields.io/badge/↗_Repository-22c55e?style=flat-square&labelColor=000000&color=22c55e)](https://github.com/USERNAME/recipe-organizer)
+[![View Code](https://img.shields.io/badge/-View_Code-000000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/MuhammadAbdullahKhan11may/recipe-organizer)
+[![Repository](https://img.shields.io/badge/↗_Repository-22c55e?style=flat-square&labelColor=000000&color=22c55e)](https://github.com/MuhammadAbdullahKhan11may/recipe-organizer)
 
 </td>
 </tr>
@@ -209,9 +212,9 @@ A recipe and ingredient organization project applying programming and data-struc
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahkhan&...)theme=github_dark&bg_color=000000&title_color=22c55e&icon_color=22c55e&text_color=ffffff&border_color=22c55e&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAbdullahKhan11may&show_icons=true&rank_icon=hide&theme=github_dark&bg_color=000000&title_color=22c55e&icon_color=22c55e&text_color=ffffff&border_color=22c55e&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdullahkhan&...)theme=github-dark-blue&background=000000&border=22c55e&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=ffffff&dates=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadAbdullahKhan11may&theme=github-dark-blue&background=000000&border=22c55e&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=ffffff&dates=ffffff)
 
 </div>
 
@@ -224,8 +227,8 @@ A recipe and ingredient organization project applying programming and data-struc
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=22c55e)](https://linkedin.com/in/USERNAME)
-[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge&labelColor=000000&color=22c55e)](https://USERNAME.github.io)
+[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge&labelColor=000000&color=22c55e)](https://MuhammadAbdullahKhan11may.github.io)
 [![Email](https://img.shields.io/badge/-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=22c55e)](mailto:EMAIL@example.com)
-[![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=22c55e)](https://github.com/USERNAME)
+[![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=22c55e)](https://github.com/MuhammadAbdullahKhan11may)
 
 </div>
