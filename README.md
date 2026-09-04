@@ -209,9 +209,9 @@ A recipe and ingredient organization project applying programming and data-struc
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&bg_color=000000&title_color=22c55e&icon_color=22c55e&text_color=ffffff&border_color=22c55e&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahkhan&...)theme=github_dark&bg_color=000000&title_color=22c55e&icon_color=22c55e&text_color=ffffff&border_color=22c55e&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=github-dark-blue&background=000000&border=22c55e&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=ffffff&dates=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=abdullahkhan&...)theme=github-dark-blue&background=000000&border=22c55e&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=ffffff&dates=ffffff)
 
 </div>
 
